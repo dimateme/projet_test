@@ -1,0 +1,670 @@
+[08-Feb-2022 15:21:48 America/Toronto] PHP Warning:  file_get_contents(listeArticles.json): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 14
+[08-Feb-2022 15:21:48 America/Toronto] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 28
+[08-Feb-2022 15:21:48 America/Toronto] PHP Warning:  include(template.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 34
+[08-Feb-2022 15:21:48 America/Toronto] PHP Warning:  include(): Failed opening 'template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 34
+[08-Feb-2022 15:29:52 America/Toronto] PHP Warning:  include(template.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\ajouterArticle.php on line 33
+[08-Feb-2022 15:29:52 America/Toronto] PHP Warning:  include(): Failed opening 'template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\ajouterArticle.php on line 33
+[08-Feb-2022 16:07:03 America/Toronto] PHP Notice:  Undefined variable: fichierJSON in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 23
+[08-Feb-2022 16:07:03 America/Toronto] PHP Warning:  file_put_contents(): Filename cannot be empty in C:\xampp\htdocs\PHP\2-LesBases\4_eCommerceJSON_ENS\Controleurs\eCommerce.php on line 23
+[08-Feb-2022 16:54:49 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function obtenirLesArticles() in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\eCommerce.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\eCommerce.php on line 15
+[08-Feb-2022 21:14:02 America/Toronto] PHP Warning:  file_get_contents(../Modeles/listeArticles.json): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 14
+[08-Feb-2022 21:14:02 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 22
+[08-Feb-2022 21:14:02 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 23
+[08-Feb-2022 21:14:02 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 24
+[08-Feb-2022 21:14:02 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 25
+[08-Feb-2022 21:14:02 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 26
+[08-Feb-2022 21:17:59 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:18:08 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:19:39 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:20:20 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:21:42 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:21:44 America/Toronto] PHP Fatal error:  article inconnu in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 17
+[08-Feb-2022 21:22:07 America/Toronto] PHP Notice:  Undefined index: id in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 20
+[08-Feb-2022 21:22:07 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 23
+[08-Feb-2022 21:22:29 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 25
+[08-Feb-2022 21:22:29 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 27
+[08-Feb-2022 21:22:29 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 28
+[08-Feb-2022 21:22:29 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 29
+[08-Feb-2022 21:24:51 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 25
+[08-Feb-2022 21:24:51 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 27
+[08-Feb-2022 21:24:51 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 28
+[08-Feb-2022 21:24:51 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 29
+[08-Feb-2022 21:27:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 24
+[08-Feb-2022 21:28:16 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 26
+[08-Feb-2022 21:28:44 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 26
+[08-Feb-2022 21:29:19 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 27
+[08-Feb-2022 21:29:19 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 29
+[08-Feb-2022 21:29:19 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 30
+[08-Feb-2022 21:29:19 America/Toronto] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_ENSEIGNE\Controleurs\afficherArticle.php on line 31
+[09-Feb-2022 10:51:35 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 27
+[09-Feb-2022 10:51:35 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 27
+[09-Feb-2022 10:51:35 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 27
+[09-Feb-2022 10:51:35 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 27
+[09-Feb-2022 10:59:36 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 27
+[09-Feb-2022 10:59:36 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 29
+[09-Feb-2022 10:59:36 America/Toronto] PHP Notice:  Trying to get property 'quantite' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 30
+[09-Feb-2022 10:59:36 America/Toronto] PHP Notice:  Trying to get property 'description' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 31
+[09-Feb-2022 11:01:17 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 27
+[09-Feb-2022 11:01:17 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 29
+[09-Feb-2022 11:01:17 America/Toronto] PHP Notice:  Trying to get property 'quantite' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 30
+[09-Feb-2022 11:01:17 America/Toronto] PHP Notice:  Trying to get property 'description' of non-object in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\afficherArticle.php on line 31
+[09-Feb-2022 11:23:01 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_all() in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 23
+[09-Feb-2022 11:23:11 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetch_all() in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD\Controleurs\eCommerce.php on line 23
+[15-Feb-2022 10:05:50 America/Toronto] PHP Notice:  Undefined variable: msgErreur in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 32
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  Use of undefined constant VUES - assumed 'VUES' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  include(ROOTDSVUESDStemplate.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:05:50 America/Toronto] PHP Warning:  include(): Failed opening 'ROOTDSVUESDStemplate.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 36
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  Use of undefined constant VUES - assumed 'VUES' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  include(ROOTDSVUESDStemplate.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:07:11 America/Toronto] PHP Warning:  include(): Failed opening 'ROOTDSVUESDStemplate.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\ajouterUnUtilisateur.php on line 38
+[15-Feb-2022 10:18:28 America/Toronto] PHP Notice:  Undefined variable: msgErreur in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 52
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  Use of undefined constant VUES - assumed 'VUES' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  include(ROOTDSVUESDStemplate.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:28 America/Toronto] PHP Warning:  include(): Failed opening 'ROOTDSVUESDStemplate.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  Use of undefined constant VUES - assumed 'VUES' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  Use of undefined constant DS - assumed 'DS' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  include(ROOTDSVUESDStemplate.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:18:59 America/Toronto] PHP Warning:  include(): Failed opening 'ROOTDSVUESDStemplate.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\authentification.php on line 56
+[15-Feb-2022 10:40:28 America/Toronto] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 17
+[15-Feb-2022 10:40:28 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 17
+[15-Feb-2022 10:41:16 America/Toronto] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 17
+[15-Feb-2022 10:41:16 America/Toronto] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 17
+[15-Feb-2022 10:43:41 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 17
+[15-Feb-2022 10:46:10 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 21
+[15-Feb-2022 10:46:48 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 21
+[15-Feb-2022 10:46:59 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\2-LesBases\5_eCommerceBD_Authentification\Controleurs\eCommerce.php on line 21
+[21-Feb-2022 19:01:05 America/Toronto] PHP Notice:  Undefined variable: bdd in C:\xampp\htdocs\PHP\2-LesBases\6_eCommerceBD+Categories\Controleurs\ajouterArticle.php on line 13
+[21-Feb-2022 19:01:05 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\2-LesBases\6_eCommerceBD+Categories\Modeles\gestionCategories.php:13
+Stack trace:
+#0 C:\xampp\htdocs\PHP\2-LesBases\6_eCommerceBD+Categories\Controleurs\ajouterArticle.php(13): obtenirLesCategories(NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\6_eCommerceBD+Categories\Modeles\gestionCategories.php on line 13
+[22-Feb-2022 13:23:28 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\eCommerce.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\eCommerce.php on line 36
+[22-Feb-2022 13:24:35 America/Toronto] PHP Warning:  require_once(../Modeles/gestionArticles.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 15
+[22-Feb-2022 13:24:35 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/gestionArticles.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 15
+[22-Feb-2022 14:09:54 America/Toronto] PHP Notice:  Undefined variable: unArticle in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 28
+[22-Feb-2022 14:09:54 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 28
+[22-Feb-2022 14:09:54 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php:30
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 30
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Undefined variable: unArticle in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 32
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 32
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Undefined variable: unArticle in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 34
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Trying to get property 'nom' of non-object in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 34
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Undefined variable: unArticle in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 35
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Trying to get property 'quantite' of non-object in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 35
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Undefined variable: unArticle in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 36
+[22-Feb-2022 14:10:33 America/Toronto] PHP Notice:  Trying to get property 'description' of non-object in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\afficherAliment.php on line 36
+[22-Feb-2022 14:23:25 America/Toronto] PHP Notice:  Undefined variable: lesCategoriesBD in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php on line 18
+[22-Feb-2022 14:23:25 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php on line 18
+[22-Feb-2022 14:28:17 America/Toronto] PHP Notice:  Undefined index: commerce in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php on line 82
+[22-Feb-2022 14:28:17 America/Toronto] PHP Notice:  Undefined index: commerce in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php on line 82
+[22-Feb-2022 14:28:17 America/Toronto] PHP Notice:  Undefined index: commerce in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Categories\Controleurs\ajouterAliment.php on line 82
+[23-Feb-2022 10:32:40 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\eCommerce.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\eCommerce.php on line 36
+[23-Feb-2022 10:45:02 America/Toronto] PHP Notice:  Undefined index: commerce in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\eCommerce.php on line 30
+[23-Feb-2022 15:02:32 America/Toronto] PHP Fatal error:  Uncaught Error: Object of class PDOStatement could not be converted to string in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\afficherAliment.php:45
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\afficherAliment.php on line 45
+[23-Feb-2022 16:35:30 America/Toronto] PHP Notice:  Undefined variable: uneCategorieBD in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 32
+[23-Feb-2022 16:35:30 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:32
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 32
+[23-Feb-2022 16:38:47 America/Toronto] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:103
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 103
+[23-Feb-2022 16:39:36 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 102
+[23-Feb-2022 16:40:31 America/Toronto] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:104
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 104
+[23-Feb-2022 16:45:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 103
+[23-Feb-2022 16:45:47 America/Toronto] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:104
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 104
+[23-Feb-2022 16:56:13 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:56:13 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 16:57:37 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 119
+[23-Feb-2022 17:03:20 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 120
+[23-Feb-2022 17:03:20 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 120
+[23-Feb-2022 17:03:20 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 120
+[23-Feb-2022 17:03:20 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 120
+[23-Feb-2022 17:03:20 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 120
+[23-Feb-2022 17:05:09 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 35
+[23-Feb-2022 17:12:11 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 35
+[23-Feb-2022 17:12:11 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 35
+[23-Feb-2022 17:12:15 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 35
+[23-Feb-2022 17:12:15 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 35
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Undefined property: stdClass::$id in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 42
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Undefined property: stdClass::$id in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 42
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:12:47 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:14:21 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:14:21 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:14:21 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:14:21 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:14:21 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 45
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 46
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:15:30 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 44
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 130
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 130
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 130
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 130
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 130
+[23-Feb-2022 17:24:54 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:24:54 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 45
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:25:39 America/Toronto] PHP Notice:  Undefined variable: sesCommercesId in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:25:39 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 132
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 45
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:26:57 America/Toronto] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 131
+[23-Feb-2022 17:29:31 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126
+[23-Feb-2022 17:29:31 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126
+[23-Feb-2022 17:29:31 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126
+[23-Feb-2022 17:29:31 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126
+[23-Feb-2022 17:29:31 America/Toronto] PHP Warning:  in_array() expects parameter 2 to be array, string given in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126
+[25-Feb-2022 14:52:28 America/Toronto] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function estCommerceDeCetAliment(), 2 passed in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php on line 126 and exactly 3 expected in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Modeles\gestionAliments.php:56
+Stack trace:
+#0 C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php(126): estCommerceDeCetAliment('1', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Modeles\gestionAliments.php on line 56
+[25-Feb-2022 14:52:43 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::count() in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Modeles\gestionAliments.php:60
+Stack trace:
+#0 C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\modifierAliment.php(126): estCommerceDeCetAliment(Object(PDO), '1', '1')
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Modeles\gestionAliments.php on line 60
+[25-Feb-2022 15:42:32 America/Toronto] PHP Notice:  Undefined index: commerces in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 31
+[25-Feb-2022 15:42:32 America/Toronto] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 37
+[25-Feb-2022 15:47:06 America/Toronto] PHP Notice:  Undefined index: commerces in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 31
+[25-Feb-2022 15:47:06 America/Toronto] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 37
+[25-Feb-2022 15:47:48 America/Toronto] PHP Notice:  Undefined index: commerces in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 31
+[25-Feb-2022 15:47:48 America/Toronto] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces copy\Controleurs\eCommerce.php on line 51
+[02-Mar-2022 10:08:01 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\2-LesBases\7_eCommerceBD+Commerces\Controleurs\eCommerce.php on line 21
+[12-Mar-2022 15:51:32 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function obtenirLesAliments() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 68
+[12-Mar-2022 16:00:25 America/Toronto] PHP Warning:  include(class/manager/gestionAliment.class.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:00:25 America/Toronto] PHP Warning:  include(): Failed opening 'class/manager/gestionAliment.class.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:00:25 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'GestionAliment' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 16
+[12-Mar-2022 16:00:49 America/Toronto] PHP Warning:  include(../class/manager/gestionAliment.class.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:00:49 America/Toronto] PHP Warning:  include(): Failed opening '../class/manager/gestionAliment.class.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:00:49 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'GestionAliment' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 16
+[12-Mar-2022 16:01:22 America/Toronto] PHP Warning:  include(../models/manager/gestionAliment.class.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:01:22 America/Toronto] PHP Warning:  include(): Failed opening '../models/manager/gestionAliment.class.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 15
+[12-Mar-2022 16:01:22 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'GestionAliment' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 16
+[12-Mar-2022 16:03:06 America/Toronto] PHP Warning:  include(../Vues/template.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 81
+[12-Mar-2022 16:03:06 America/Toronto] PHP Warning:  include(): Failed opening '../Vues/template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\eCommerce.php on line 81
+[12-Mar-2022 16:03:23 America/Toronto] PHP Notice:  Undefined variable: pageTitre in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\views\template.php on line 26
+[12-Mar-2022 16:03:23 America/Toronto] PHP Notice:  Undefined variable: pageTitre in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\views\template.php on line 47
+[12-Mar-2022 16:06:18 America/Toronto] PHP Warning:  include(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterAliment.php on line 12
+[12-Mar-2022 16:06:18 America/Toronto] PHP Warning:  include(): Failed opening '../Modeles/connexionBD.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterAliment.php on line 12
+[12-Mar-2022 16:06:18 America/Toronto] PHP Warning:  require_once(../Modeles/gestionCategories.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterAliment.php on line 15
+[12-Mar-2022 16:06:18 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/gestionCategories.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterAliment.php on line 15
+[12-Mar-2022 16:12:42 America/Toronto] PHP Warning:  include(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 12
+[12-Mar-2022 16:12:42 America/Toronto] PHP Warning:  include(): Failed opening '../Modeles/connexionBD.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 12
+[12-Mar-2022 16:12:42 America/Toronto] PHP Warning:  require_once(../Modeles/gestionCategories.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 15
+[12-Mar-2022 16:12:42 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/gestionCategories.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 15
+[12-Mar-2022 16:21:49 America/Toronto] PHP Notice:  Undefined property: GestionCategorie::$bdd in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCategorie.class.php on line 18
+[12-Mar-2022 16:21:49 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCategorie.class.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(18): GestionCategorie->obtenirLesCategories(Object(PDO))
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCategorie.class.php on line 18
+[12-Mar-2022 16:22:37 America/Toronto] PHP Notice:  Undefined property: GestionCommerce::$bdd in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:22:37 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(35): GestionCommerce->obtenirLesCommerces(Object(PDO))
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:23:45 America/Toronto] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function GestionCategorie::obtenirLesCategories(), 0 passed in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 18 and exactly 1 expected in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCategorie.class.php:16
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(18): GestionCategorie->obtenirLesCategories()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCategorie.class.php on line 16
+[12-Mar-2022 16:24:18 America/Toronto] PHP Notice:  Undefined property: GestionCommerce::$bdd in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:24:18 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(35): GestionCommerce->obtenirLesCommerces()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:24:27 America/Toronto] PHP Notice:  Undefined property: GestionCommerce::$bdd in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:24:27 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php:18
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(35): GestionCommerce->obtenirLesCommerces()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionCommerce.class.php on line 18
+[12-Mar-2022 16:25:13 America/Toronto] PHP Warning:  include(../Vues/template.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 97
+[12-Mar-2022 16:25:13 America/Toronto] PHP Warning:  include(): Failed opening '../Vues/template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 97
+[12-Mar-2022 16:27:27 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[12-Mar-2022 16:27:27 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[12-Mar-2022 18:15:59 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[12-Mar-2022 18:15:59 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[12-Mar-2022 18:16:03 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[12-Mar-2022 18:16:03 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[14-Mar-2022 12:01:05 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[14-Mar-2022 12:01:05 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 12
+[14-Mar-2022 12:02:05 America/Toronto] PHP Warning:  require_once(../models/gestionAliments.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 14
+[14-Mar-2022 12:02:05 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../models/gestionAliments.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 14
+[14-Mar-2022 12:02:08 America/Toronto] PHP Warning:  require_once(../models/gestionAliments.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 14
+[14-Mar-2022 12:02:08 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../models/gestionAliments.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 14
+[14-Mar-2022 12:02:57 America/Toronto] PHP Warning:  include(../Vues/template.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 49
+[14-Mar-2022 12:02:57 America/Toronto] PHP Warning:  include(): Failed opening '../Vues/template.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 49
+[14-Mar-2022 12:06:43 America/Toronto] PHP Notice:  Undefined index: action in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:06:53 America/Toronto] PHP Notice:  Undefined index: action in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:09:47 America/Toronto] PHP Notice:  Undefined index: action in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:11:13 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:16:57 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:20:56 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:23:44 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:24:23 America/Toronto] PHP Notice:  Undefined index: description in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 33
+[14-Mar-2022 12:24:23 America/Toronto] PHP Notice:  Undefined index: quantite in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 34
+[14-Mar-2022 12:24:23 America/Toronto] PHP Notice:  Undefined index: disponibilite in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 35
+[14-Mar-2022 12:24:23 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:25:04 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:25:16 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:27:18 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:27:31 America/Toronto] PHP Notice:  Undefined index: nom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 25
+[14-Mar-2022 12:45:03 America/Toronto] PHP Notice:  Undefined index: action in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 23
+[14-Mar-2022 12:45:03 America/Toronto] PHP Notice:  Undefined variable: gestionAliment in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 48
+[14-Mar-2022 12:45:03 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function obtenirLesAliments() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 48
+[14-Mar-2022 13:06:26 America/Toronto] PHP Notice:  Undefined property: Aliment::$getNom in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 22
+[14-Mar-2022 14:31:51 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 31
+[14-Mar-2022 14:49:16 America/Toronto] PHP Notice:  Undefined variable: lesCommercesID in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 29
+[14-Mar-2022 14:49:16 America/Toronto] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 29
+[14-Mar-2022 15:01:28 America/Toronto] PHP Notice:  Undefined index: commerces_id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 28
+[14-Mar-2022 15:01:28 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'commerce' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 34
+[14-Mar-2022 15:04:18 America/Toronto] PHP Notice:  Undefined index: commerces_id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 28
+[14-Mar-2022 15:04:18 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'Commerce' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 34
+[14-Mar-2022 15:06:00 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'Commerce' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php on line 34
+[14-Mar-2022 15:23:12 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function obtenirUneCategorie() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:42
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 42
+[14-Mar-2022 16:03:18 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+
+Next Error: Typed property Aliment::$nom must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:31
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php(34): Aliment->__destruct()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 31
+[14-Mar-2022 16:04:00 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:04:37 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:04:39 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:05:23 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:05:48 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:05:50 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:08:37 America/Toronto] PHP Fatal error:  Uncaught Error: Call to private Aliment::__construct() from invalid context in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 34
+[14-Mar-2022 16:10:59 America/Toronto] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 39
+[14-Mar-2022 16:12:39 America/Toronto] PHP Fatal error:  Uncaught Error: Class 'Categorie' not found in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:46
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 46
+[14-Mar-2022 16:13:53 America/Toronto] PHP Fatal error:  Uncaught TypeError: Typed property Categorie::$categorie must be string, null used in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\categorie.class.php:19
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php(48): Categorie->__construct(1, NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\categorie.class.php on line 19
+[14-Mar-2022 16:15:41 America/Toronto] PHP Notice:  Undefined variable: GestionAliment in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 53
+[14-Mar-2022 16:15:41 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function obtenirLesCommercesAssocies() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:53
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 53
+[14-Mar-2022 16:16:20 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function obtenirUnCommerce() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 64
+[14-Mar-2022 16:20:39 America/Toronto] PHP Fatal error:  Uncaught TypeError: Typed property Commerce::$commerce must be string, null used in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\commerce.class.php:19
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php(63): Commerce->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\commerce.class.php on line 19
+[14-Mar-2022 16:52:53 America/Toronto] PHP Notice:  Undefined variable: aliment in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 39
+[14-Mar-2022 16:52:53 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function setNom() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 39
+[14-Mar-2022 17:01:00 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[14-Mar-2022 17:01:00 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[16-Mar-2022 16:26:51 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[16-Mar-2022 16:26:51 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[16-Mar-2022 16:32:30 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 20
+[16-Mar-2022 16:32:56 America/Toronto] PHP Warning:  include(../models/gestionUtilisateurs.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\authentifier.php on line 14
+[16-Mar-2022 16:32:56 America/Toronto] PHP Warning:  include(): Failed opening '../models/gestionUtilisateurs.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\authentifier.php on line 14
+[16-Mar-2022 16:35:31 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 20
+[16-Mar-2022 16:36:12 America/Toronto] PHP Notice:  Undefined index: usager in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\gererLesAliments.php on line 20
+[16-Mar-2022 16:36:49 America/Toronto] PHP Warning:  require_once(../Modeles/connexionBD.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[16-Mar-2022 16:36:49 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../Modeles/connexionBD.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 12
+[23-Mar-2022 08:50:58 America/Toronto] PHP Warning:  require_once(../models/manager/gestionAliment.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 14
+[23-Mar-2022 08:50:58 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../models/manager/gestionAliment.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 14
+[23-Mar-2022 08:51:32 America/Toronto] PHP Warning:  require_once(../models/managers/gestionAliment.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 14
+[23-Mar-2022 08:51:32 America/Toronto] PHP Fatal error:  require_once(): Failed opening required '../models/managers/gestionAliment.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 14
+[23-Mar-2022 08:52:04 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined function estUnCommerceDeCetAliment() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\views\formulaireModification.php:70
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php(68): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\views\formulaireModification.php on line 70
+[23-Mar-2022 08:54:05 America/Toronto] PHP Notice:  Undefined variable: bdd in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php on line 62
+[23-Mar-2022 08:54:05 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php:62
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\views\formulaireModification.php(70): GestionAliment->estUnCommerceDeCetAliment('1', '1')
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php(68): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php on line 62
+[23-Mar-2022 08:54:38 America/Toronto] PHP Warning:  include(../Vues/templatePrincipal.php): failed to open stream: No such file or directory in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 71
+[23-Mar-2022 08:54:38 America/Toronto] PHP Warning:  include(): Failed opening '../Vues/templatePrincipal.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 71
+[23-Mar-2022 08:55:40 America/Toronto] PHP Fatal error:  aliment inconnu in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 30
+[23-Mar-2022 08:56:15 America/Toronto] PHP Notice:  Undefined index: indice in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 30
+[23-Mar-2022 08:56:15 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 34
+[23-Mar-2022 08:58:41 America/Toronto] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 36
+[23-Mar-2022 08:58:41 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 37
+[23-Mar-2022 09:05:57 America/Toronto] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 36
+[23-Mar-2022 09:05:57 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 37
+[23-Mar-2022 09:06:03 America/Toronto] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 36
+[23-Mar-2022 09:06:03 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:37
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 37
+[23-Mar-2022 09:06:51 America/Toronto] PHP Notice:  Undefined index: categorie_id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 43
+[23-Mar-2022 09:06:51 America/Toronto] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 58
+[23-Mar-2022 09:06:51 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:59
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 59
+[23-Mar-2022 09:07:13 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 09:07:30 America/Toronto] PHP Notice:  Undefined index: categorie_id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 43
+[23-Mar-2022 09:07:30 America/Toronto] PHP Notice:  Undefined variable: id in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 58
+[23-Mar-2022 09:07:30 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:59
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 59
+[23-Mar-2022 09:08:34 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 09:08:39 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\afficherUnAliment.php on line 48
+[23-Mar-2022 09:08:42 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 09:10:10 America/Toronto] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::getCategorie_id() in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 61
+[23-Mar-2022 09:13:46 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 09:16:48 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 09:16:48 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 65
+[23-Mar-2022 09:18:19 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 09:18:19 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 65
+[23-Mar-2022 11:19:28 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 62
+[23-Mar-2022 11:19:28 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 11:20:01 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 62
+[23-Mar-2022 11:20:01 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:64
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 11:23:02 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 11:23:02 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 65
+[23-Mar-2022 11:23:26 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 63
+[23-Mar-2022 11:23:26 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:65
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 65
+[23-Mar-2022 11:24:09 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 11:24:09 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 66
+[23-Mar-2022 11:24:53 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 65
+[23-Mar-2022 11:24:53 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:67
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 67
+[23-Mar-2022 11:26:33 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 11:26:33 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 66
+[23-Mar-2022 11:26:42 America/Toronto] PHP Notice:  Trying to get property 'categorie_id' of non-object in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 64
+[23-Mar-2022 11:26:42 America/Toronto] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php:66
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\modifierUnAliment.php on line 66
+[24-Mar-2022 11:17:14 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(39): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:19:52 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(39): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:24:22 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(40): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:24:48 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(40): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:25:32 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(40): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:27:28 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(38): Aliment->getDisponibilite()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:28:36 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(38): Aliment->getDisponibilite()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:29:53 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(39): Aliment->getDisponibilite()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:30:05 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(41): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:30:57 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\managers\gestionAliment.class.php(33): Aliment->getDisponibilite()
+#1 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(41): GestionAliment->ajouterUnAliment(Object(Aliment))
+#2 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
+[24-Mar-2022 11:31:27 America/Toronto] PHP Fatal error:  Uncaught Error: Typed property Aliment::$disponibilite must not be accessed before initialization in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php:73
+Stack trace:
+#0 C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\controllers\ajouterUnAliment.php(39): Aliment->getDisponibilite()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP\3-PHP-objet\1_eCommerceAliment\models\class\aliment.class.php on line 73
